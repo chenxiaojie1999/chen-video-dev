@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mybatisGeneratorSqlmapper" />
+        <module name="chen-videos-dev-common" />
+        <module name="chen-video-admin-mapper" />
+        <module name="chen-video-dev-pojo" />
+        <module name="chen-video-admin-pojo" />
+        <module name="chen-video-admin-service" />
+        <module name="chen-video-dev-mapper" />
+        <module name="chen-video-admin-mng" />
+        <module name="chen-video-dev-service" />
+        <module name="chen-video-dev-mini-api" />
+        <module name="chen-video-admin-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="chen-video-admin" target="1.8" />
+      <module name="chen-video-admin-common" target="1.8" />
+      <module name="chen-video-admin-mapper" target="1.8" />
+      <module name="chen-video-admin-mng" target="1.8" />
+      <module name="chen-video-admin-pojo" target="1.8" />
+      <module name="chen-video-admin-service" target="1.8" />
+      <module name="chen-video-dev" target="1.8" />
+      <module name="chen-video-dev-mapper" target="1.8" />
+      <module name="chen-video-dev-mini-api" target="1.8" />
+      <module name="chen-video-dev-pojo" target="1.8" />
+      <module name="chen-video-dev-service" target="1.8" />
+      <module name="chen-videos-dev-common" target="1.8" />
+      <module name="mybatisGeneratorSqlmapper" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="chen-video-dev-mapper" options="" />
+      <module name="chen-video-dev-mini-api" options="" />
+      <module name="chen-video-dev-pojo" options="" />
+      <module name="chen-video-dev-service" options="" />
+      <module name="chen-videos-dev-common" options="" />
+    </option>
+  </component>
+</project>

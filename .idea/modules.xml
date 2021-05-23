@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../chen-video-admin/chen-video-admin.iml" filepath="$PROJECT_DIR$/../chen-video-admin/chen-video-admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../chen-video-admin/chen-video-admin-common/chen-video-admin-common.iml" filepath="$PROJECT_DIR$/../chen-video-admin/chen-video-admin-common/chen-video-admin-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../chen-video-admin/chen-video-admin-mapper/chen-video-admin-mapper.iml" filepath="$PROJECT_DIR$/../chen-video-admin/chen-video-admin-mapper/chen-video-admin-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../chen-video-admin/chen-video-admin-mng/chen-video-admin-mng.iml" filepath="$PROJECT_DIR$/../chen-video-admin/chen-video-admin-mng/chen-video-admin-mng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../chen-video-admin/chen-video-admin-pojo/chen-video-admin-pojo.iml" filepath="$PROJECT_DIR$/../chen-video-admin/chen-video-admin-pojo/chen-video-admin-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../chen-video-admin/chen-video-admin-service/chen-video-admin-service.iml" filepath="$PROJECT_DIR$/../chen-video-admin/chen-video-admin-service/chen-video-admin-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/chen-video-dev.iml" filepath="$PROJECT_DIR$/.idea/chen-video-dev.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chen-video-dev-mapper/chen-video-dev-mapper.iml" filepath="$PROJECT_DIR$/chen-video-dev-mapper/chen-video-dev-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chen-video-dev-mini-api/chen-video-dev-mini-api.iml" filepath="$PROJECT_DIR$/chen-video-dev-mini-api/chen-video-dev-mini-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chen-video-dev-pojo/chen-video-dev-pojo.iml" filepath="$PROJECT_DIR$/chen-video-dev-pojo/chen-video-dev-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chen-video-dev-service/chen-video-dev-service.iml" filepath="$PROJECT_DIR$/chen-video-dev-service/chen-video-dev-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chen-video-dev-common/chen-videos-dev-common.iml" filepath="$PROJECT_DIR$/chen-video-dev-common/chen-videos-dev-common.iml" />
+    </modules>
+  </component>
+</project>

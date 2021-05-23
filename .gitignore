@@ -1,0 +1,6 @@
+# Project exclude paths
+/chen-video-dev-common/target/
+/chen-video-dev-mapper/target/
+/chen-video-dev-mini-api/target/
+/chen-video-dev-pojo/target/
+/chen-video-dev-service/target/

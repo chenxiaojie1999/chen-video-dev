@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="chen-video-admin-mng:war">
+    <output-path>$PROJECT_DIR$/../chen-video-admin/chen-video-admin-mng/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>chen-video-admin-mng</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="chen-video-admin-mng.war">
+      <element id="artifact" artifact-name="chen-video-admin-mng:war exploded" />
+    </root>
+  </artifact>
+</component>
